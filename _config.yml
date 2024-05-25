@@ -1,4 +1,5 @@
 title: Justin Website
+destination: public
 sass:
   sass_dir: assets\css
   style: compressed
